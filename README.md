@@ -2,13 +2,16 @@
 
 **`Desenvolvedor`**
 
-**Olá!** Eu sou Jean, desenvolvedor ServiceNow em treinamento!
-Sou natural do interior do Paraná e atualmente vivo em Curitiba, sou estudante de Análise e Desenvolvimento de sistemas na Universidade Federal do Paraná (UFPR).
+**Olá!** 
+Eu sou Jean, desenvolvedor ServiceNow em treinamento!
+Sou natural do interior do Paraná e atualmente vivo em Curitiba. 
+Sou estudante de Análise e Desenvolvimento de sistemas na Universidade Federal do Paraná (UFPR).
+
 
 Atualmente sou parte do time em treinamento do Rocket Program, da empresa Alpar Tecnologia!
 
-### Minhas Linguagens e Tecnologias
 
+### Minhas Linguagens e Tecnologias:
 <img 
     align="left" 
     alt="HTML"
