@@ -1,15 +1,11 @@
-## Jeanluca Vergopolan 👨🏾‍💻 🧝🏾‍♂️
+## Jeanluca Vergopolan 
 
 **`Desenvolvedor`**
 
 **Olá!** 
-Eu sou Jean, desenvolvedor ServiceNow em treinamento!
+Eu sou Jean, desenvolvedor ServiceNow.
 Sou natural do interior do Paraná e atualmente vivo em Curitiba. 
 Sou estudante de Análise e Desenvolvimento de sistemas na Universidade Federal do Paraná (UFPR).
-
-
-Atualmente sou parte do time em treinamento do Rocket Program, da empresa Alpar Tecnologia!
-
 
 ### Minhas Linguagens e Tecnologias:
 <img 
